@@ -1,14 +1,11 @@
 # Site settings
 title: Your Title
-author: author
-email:
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+author: fanqq
+email: 1024371797@qq.com
+description: > "努力不一定成功，但成功一定源于努力"
 
 # Site URL NOTE: if your site is base on subdir /blog you should change base to "/blog"
-domain: "http://yourdomain.github.io" # the domain URL for your site
+domain: "http://fanqq.github.io" # the domain URL for your site
 base: ""  # the relative path that different with domain so you can test locally
 
 # Source URL NOTE: end with / cause it's [URL + FILE]
@@ -21,9 +18,9 @@ sitefile: "/db/Sitefile" # the Database
 page_size: 3
 
 # comment settings
-duoshuo_short_name: "sbys" # the user of user.domain.com
-duoshuo_user_uid: "6324572809590735618" # the admin user uid
-duoshuo_user_name: "xk" # the admin user name
+duoshuo_short_name: "fanqq" # the user of user.domain.com
+duoshuo_user_uid: "715122" # the admin user uid
+duoshuo_user_name: "fanqq" # the admin user name
 duoshuo_max_depth: "2"  # the max_depth setting in duoshuo comments
 
 # 3rd URL
